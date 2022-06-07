@@ -61,7 +61,7 @@ limitEnd: 'Limit Anda Habis\n\n📝 Note : Limit Akan Di Reset Setiap Jam 21:00'
 //===> EDIT SESUAI KEMAUANMU
 global.mess = {
 admin: '*LU bukan admin memek kontol 🤨*',
-botAdmin: '*BOT BUKAN ADMIN 😔*',
+botAdmin: '*BOT JADIIN ADMIN DULU NGENTOT 😔*',
 owner: '*LU BUKAN OWNER GW kontol 😠*',
 group: '*KHUSUS GROUP 😏*',
 private: '*KHUSUS PRIVATE CHAT*',
